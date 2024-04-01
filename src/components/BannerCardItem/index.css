@@ -28,16 +28,16 @@
   background-image: url('https://assets.ccbp.in/frontend/react-js/reusable-banners-card-3-bg.png');
   background-size: cover;
 }
-.heading{
+.heading {
   color: #39329d;
   font-size: 36px;
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-weight: bold;
 }
-.description{
+.description {
   color: #64748b;
   font-size: 18px;
-  font-family: "Roboto";
+  font-family: 'Roboto';
   margin-top: 24px;
   margin-bottom: 32px;
 }
