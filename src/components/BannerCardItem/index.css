@@ -31,7 +31,7 @@
 .heading {
   color: #39329d;
   font-size: 36px;
-  font-family: 'Roboto';
+  font-family: 'Bree Serif';
   font-weight: bold;
 }
 .description {
@@ -48,6 +48,6 @@
   font-size: 14px;
   font-weight: bold;
   border-radius: 5px;
-  border: 2px solid #326a9d;
+  border: 2px solid #39329d;
   padding: 8px;
 }
